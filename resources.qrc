@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wallet-man-backpocket.jpeg</file>
+    </qresource>
+    <qresource prefix="/database">
+        <file>config.db</file>
+    </qresource>
+</RCC>

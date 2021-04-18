@@ -1,0 +1,6 @@
+[requires]
+openssl/1.1.1k
+libsodium/1.0.18
+
+[generators]
+cmake
